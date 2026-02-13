@@ -34,3 +34,10 @@ sudo ldconfig
 
 ## Credits
 Built by Elyan Labs (elyan.io)
+
+
+## 中文简介
+
+Elyan Labs POWER 项目 - 为 IBM POWER 和复古系统提供现代支持。
+
+Contributed by eelaine-wzw
